@@ -1,0 +1,2 @@
+class ComicbooksController < ApplicationController
+end
